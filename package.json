@@ -1,0 +1,27 @@
+{
+  "name": "heroku-mysql",
+  "version": "1.0.0",
+  "description": "heroku-mysql",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hishamss/heroku-mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hishamss/heroku-mysql/issues"
+  },
+  "homepage": "https://github.com/hishamss/heroku-mysql#readme"
+}
